@@ -2,7 +2,7 @@
 
 **Suraksha** (Protection) is a disaster response web application designed to help citizens in Sri Lanka stay informed and safe during **Cyclone Ditwah-2025**. It provides real-time tracking data and a direct channel for emergency assistance.
 
-![Suraksha App Screenshot](https://via.placeholder.com/800x400?text=Suraksha+App+Preview)
+![Suraksha App Screenshot](public/screenshot.png)
 
 ## 🚀 Features
 
